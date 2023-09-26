@@ -1,0 +1,4 @@
+1.) Make sure that PHP and composer are installed on your local machine
+2.) Change into the project directory using "cd location-of-the-source-code"
+3.) Install composer dependencies with "composer install"
+4.) Run the development server using "php artisan serve"
